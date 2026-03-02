@@ -5,3 +5,4 @@ Console.WriteLine("test");
 Console.WriteLine("class");
 
 Console.WriteLine();
+Console.WriteLine();
