@@ -3,3 +3,5 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("test");
 Console.WriteLine("class");
+
+Console.WriteLine();
