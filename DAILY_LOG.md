@@ -10,3 +10,8 @@
 - [x] C#_STUDYING：CH4
 - [x] -test
 
+## 📅 2026-03-02 就緒
+- [x] C#_STUDYING：CH4
+- [x] -test
+
+
