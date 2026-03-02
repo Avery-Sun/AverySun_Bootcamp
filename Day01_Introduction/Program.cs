@@ -6,3 +6,5 @@ Console.WriteLine("class");
 
 Console.WriteLine();
 Console.WriteLine();
+Console.WriteLine();
+Console.WriteLine();
