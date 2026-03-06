@@ -27,3 +27,8 @@
 - [x] C#_STUDYING：CH4
 - [x] -test
 - [x] -no  good
+
+## 📅 2026-03-06 RESET!
+- [x] C#_STUDYING：CH4
+- [x] -test
+- [x] -no  good
