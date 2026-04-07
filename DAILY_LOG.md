@@ -39,7 +39,7 @@
 - [x] -no  good!!!!
 
 
-## 📅 2026-04-07_Basic_Practice
+## 📅 2026-04-07_Basic_Practice //不如我們重新來過
 - [x] C#_STUDYING：CH4
 - [x] -Class
 - [x] -Inheritence
