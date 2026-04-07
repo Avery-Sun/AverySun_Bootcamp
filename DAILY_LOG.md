@@ -37,3 +37,10 @@
 - [x] C#_STUDYING：CH4
 - [x] -test
 - [x] -no  good!!!!
+
+
+## 📅 2026-04-07_Basic_Practice
+- [x] C#_STUDYING：CH4
+- [x] -Class
+- [x] -Inheritence
+- [x] -Virtual-Override 
