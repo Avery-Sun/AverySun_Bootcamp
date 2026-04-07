@@ -1,4 +1,4 @@
-﻿namespace ForPractice_20260407;
+﻿namespace Day01_Basics;
 
 public class Animal
 {
