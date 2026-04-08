@@ -44,3 +44,10 @@
 - [x] -Class
 - [x] -Inheritence
 - [x] -Virtual-Override  
+
+
+## 📅 2026-04-08_Basic_Practice 
+- [x] C#_STUDYING：CH4
+- [x] -Class
+- [x] -Overload
+- [x] -Consturctor 
