@@ -1,0 +1,15 @@
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.AssemblyInfoInputs.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.AssemblyInfo.cs
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.csproj.CoreCompileInputs.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.sourcelink.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\bin\Debug\net8.0\20260408_Day02_Basics.exe
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\bin\Debug\net8.0\20260408_Day02_Basics.deps.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\bin\Debug\net8.0\20260408_Day02_Basics.runtimeconfig.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\bin\Debug\net8.0\20260408_Day02_Basics.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\bin\Debug\net8.0\20260408_Day02_Basics.pdb
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\refint\20260408_Day02_Basics.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.pdb
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\20260408_Day02_Basics.genruntimeconfig.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260408_Day02_Basics\20260408_Day02_Basics\obj\Debug\net8.0\ref\20260408_Day02_Basics.dll

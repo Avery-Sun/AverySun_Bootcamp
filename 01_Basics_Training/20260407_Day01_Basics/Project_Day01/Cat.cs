@@ -1,4 +1,5 @@
-﻿namespace Day01_Basics;
+﻿namespace Day01_Basics
+    ;
 
 public class Cat:Animal
 {
