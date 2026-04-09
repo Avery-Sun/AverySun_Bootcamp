@@ -51,3 +51,10 @@
 - [x] -Class
 - [x] -Overload
 - [x] -Consturctor 
+
+## 📅 2026-04-09_Basic_Practice_OOP
+- [x] C#_STUDYING：CH4
+- [x] -Encapsulation
+- [x] -Inheritance
+- [x] -Polymorphsim
+- [x] -Abstructor
