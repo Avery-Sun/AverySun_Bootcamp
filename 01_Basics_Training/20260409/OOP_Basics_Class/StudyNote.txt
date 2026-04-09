@@ -1,0 +1,139 @@
+﻿OOP(Object-Oriented Programming)
+
+1.Encapsulation
+2.Inheritance
+3.Polymorphism
+4.Abstraction
+
+-------------------------------
+*Class
+	ex.
+		color>red
+			>blue
+			>navy
+
+			public class Color{
+				
+				public string color;
+				public string hex;
+			
+			}
+
+				public class Red{
+				
+				
+				}
+		
+		>> Constructor
+			
+			**must to be public
+				can't inheritance but keyword:base
+				defult a empty one
+				the name with the same to class
+
+				ex.
+					public Color(){} //defult
+
+					public Color(string hex){
+						
+						this.hex=hex;
+					
+					}
+
+					public class Animal
+					{
+						public string Name { get; set; }
+
+						// 父類別的有參數建構子
+						public Animal(string name)
+						{
+							this.Name = name;
+							Console.WriteLine($"父類別：Animal {Name} 已建立");
+						}
+					}
+
+					public class Dog : Animal
+					{
+						public string Breed { get; set; }
+
+						// 子類別建構子：使用 : base(name) 將名字傳回給父類別
+						public Dog(string name, string breed) : base(name) 
+						{
+							this.Breed = breed;
+							Console.WriteLine($"子類別：品種為 {Breed} 的小狗已建立");
+						}
+					}
+					
+
+	>property
+			ex.
+				public string Name{get;set;}
+
+		>Method
+			ex.
+				public void PrintInfo(){
+				
+				}
+
+				public string GetName(string name){
+					
+					return name;
+				}
+
+				>> virtual-override(class with keywords:virtual all the same method subclass can overrride)
+					
+					class Aniaml
+					{
+						
+						private string Name;
+						private string color;
+
+					
+						public void Sound{
+							
+							Console.WriteLine("wow");
+						}
+
+						public virtual string Sound(){
+							
+							return "OOO";
+						}
+					
+					}
+
+					class Dog:aniaml
+					{
+						
+						public override string Sound(){
+							
+							Console.WriteLine("wow~~");
+						
+						}
+					
+					
+					}
+					
+				>> overload
+					public string PrintInfo(string color){
+						
+						return color;
+					}
+
+					public string PrintInfo(string color ,int RGB){
+						
+						return $"Color: {color}, RGB: {RGB}";
+					
+					}
+
+1.encaslution(scope > )
+	a.public
+		reange:all
+	b.intneral
+		reange:all project
+	c.protected
+		reange: only my class+ my subclass
+	d.private
+		range:only class
+
+
+

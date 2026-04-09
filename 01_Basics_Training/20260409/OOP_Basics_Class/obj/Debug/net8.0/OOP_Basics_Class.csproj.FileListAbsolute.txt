@@ -1,0 +1,15 @@
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\bin\Debug\net8.0\OOP_Basics_Class.exe
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\bin\Debug\net8.0\OOP_Basics_Class.deps.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\bin\Debug\net8.0\OOP_Basics_Class.runtimeconfig.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\bin\Debug\net8.0\OOP_Basics_Class.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\bin\Debug\net8.0\OOP_Basics_Class.pdb
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.AssemblyInfoInputs.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.AssemblyInfo.cs
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.csproj.CoreCompileInputs.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.sourcelink.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\refint\OOP_Basics_Class.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.pdb
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\OOP_Basics_Class.genruntimeconfig.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260409\OOP_Basics_Class\obj\Debug\net8.0\ref\OOP_Basics_Class.dll
