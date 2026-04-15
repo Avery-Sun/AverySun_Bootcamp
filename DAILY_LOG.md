@@ -65,3 +65,10 @@
 - [x] -Inheritance
 - [x] -Polymorphsim
 - [x] -Abstructor
+
+## 📅 2026-04-15_Basic_Practice_OOP_Write a project
+- [x] For Master code review
+- [x] -Encapsulation
+- [x] -Inheritance
+- [x] -Polymorphsim
+- [x] -Abstructor
