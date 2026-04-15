@@ -1,0 +1,15 @@
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\bin\Debug\net8.0\OOPBasicPracticeAll.exe
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\bin\Debug\net8.0\OOPBasicPracticeAll.deps.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\bin\Debug\net8.0\OOPBasicPracticeAll.runtimeconfig.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\bin\Debug\net8.0\OOPBasicPracticeAll.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\bin\Debug\net8.0\OOPBasicPracticeAll.pdb
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.AssemblyInfoInputs.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.AssemblyInfo.cs
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.csproj.CoreCompileInputs.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.sourcelink.json
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\refint\OOPBasicPracticeAll.dll
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.pdb
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\OOPBasicPracticeAll.genruntimeconfig.cache
+C:\Users\avery\source\AverySunDev_Relocation_Bootcamp\01_Basics_Training\20260415\OOPBasicPracticeAll\obj\Debug\net8.0\ref\OOPBasicPracticeAll.dll

@@ -1,0 +1,219 @@
+﻿**OOP_Note_All
+
+1.encapsultion
+	(1)range 
+		a.public
+			reange:all
+		b.intneral
+			reange:Assembly
+		c.protected
+			reange: only my class+ my subclass
+		d.private
+			range:only class
+
+	(2)Class
+		a.defult internal-->public 
+		b.name's first word should be capital(ex. public calss Dog{})
+
+	(3)parameter should be private (field)
+	(4)proerity should be public and get;set;
+		if only get==readonly
+			ex.public string name{get;}
+			*Field ex. _name，Property  ex.Name。
+	(5)method should be public
+		cf.
+		a. constructor
+			ex.public Dog()
+
+				*defult no any parameter
+				*add parameter 
+					ex.public Dog(string name,int age)
+				*use key word:New+class();
+				*should be public
+				*can call by key words:base
+
+				ex.
+					public class Aniaml{
+						protected string Name
+						protected int Age;
+
+						public Animal(string name ,int age){
+							Name=name;
+							Age=age;
+
+						}
+					
+					}
+
+					public class Dog:Aniaml{ -------2.inheritance
+					
+						public Dog(string name, int age) : base(name, age){
+							Name=name;
+							Age=age;
+						}
+					}
+
+	b.virtual-override,fatherclass with vitual keyword can be subclass override
+
+		ex.
+					public class Aniaml{
+						private string Name
+						private int Age;
+
+						public Animal(string name ,int age){
+							Name=name;
+							Age=age;
+
+						}
+						public virtual void PrintInfo(){
+						
+							Console.WriteLine($"{name} woo~")
+						}
+					
+					}
+
+					public class Dog:Aniaml{
+					
+						public Dog:base(){
+							Name=name;
+							Age=age;
+						}
+
+						public override void PrintInfo(){
+						
+							Console.WriteLine($"{name} hahaha~")
+						}
+					}
+
+	c.overload
+		public class Aniaml{
+						private string Name
+						private int Age;
+
+						public string toys{get;set;}
+
+						public Animal(string name ,int age){
+							Name=name;
+							Age=age;
+
+						}
+						public virtual void PrintInfo(){
+						
+							Console.WriteLine($"{name} woo~");
+						}
+
+						public void behaver(){
+							
+							Console.WriteLine($"{name} is running");
+						
+						}
+
+						public void behaver(string toys){
+							
+							Console.WriteLine($"{name} is play a {toys}");
+						
+						}
+
+					
+					}
+
+
+3.polymorphsim
+	
+	change class type 
+		ex.
+			public class Aniaml{
+						private string Name
+						private int Age;
+
+						public Animal(string name ,int age){
+							Name=name;
+							Age=age;
+
+						}
+						public virtual void PrintInfo(){
+						
+							Console.WriteLine($"{name} woo~")
+						}
+					
+					}
+
+					public class Dog:Aniaml{
+					
+						public Dog:base(){
+							Name=name;
+							Age=age;
+						}
+
+						public override void PrintInfo(){
+						
+							Console.WriteLine($"{name} hahaha~")
+						}
+					}
+
+			//programs.cs
+				Dog dog =new Dog();
+				Aniaml cat=new Aniaml();
+				Aniaml animals=dog;
+
+			Aniaml
+				>Dog
+					Aniaml is Dog //cast --invaildCastException
+				>Cat
+					Aniaml as Dog //as---null
+4.abstract
+	*with keywords :abstract shouble be write down the method
+	* method with abstract and class should be abstract
+	ex.
+		public class Aniaml{
+						private string Name
+						private int Age;
+
+						public Animal(string name ,int age){
+							Name=name;
+							Age=age;
+
+						}
+						public virtual void PrintInfo(){
+						
+							Console.WriteLine($"{name} woo~")
+						}
+					
+					}
+
+		public abstract Person{
+			
+			private string Name;
+			private int Age;
+
+			public string Job{get;set;}
+
+			public abstract void PrintInfo(){
+				
+				Console.WriteLine($"{name} is {age} years old,is a {Job}");
+			
+			}
+		
+		}
+
+		public class Teacher : Person {
+			public override void PrintInfo() { 
+				Console.WriteLine($"{name} is {age} years-old");
+			 }
+		}
+
+					public class Dog:Aniaml{
+					
+						public Dog:base(){
+							Name=name;
+							Age=age;
+						}
+
+						public override void PrintInfo(){
+						
+							Console.WriteLine($"{name} hahaha~")
+						}
+					}
+	
+	*static keyword
+		*with static class with static method with static parameter
