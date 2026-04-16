@@ -72,3 +72,6 @@
 - [x] -Inheritance
 - [x] -Polymorphsim
 - [x] -Abstructor
+
+## 📅 2026-04-16_Basic_Practice_OOP_GetBallsColor
+- [x] Choice the correct way to use OOP
