@@ -2,6 +2,7 @@
 
 using OOPBasicPracticeAll;
 using OOPBasicPracticeAll.Account;
+using static OOPBasicPracticeAll.Balls;
 //basic practice
 //CalculatorBasic micosofteware1 = new("acer", "notebook", "intel5", "windows");
 //Computer micosofteware2 = new CalculatorBasic("asus", "notbook", "intel7", "windows");
@@ -60,52 +61,72 @@ using OOPBasicPracticeAll.Account;
 
 //STOCK TEST
 
-using OOPBasicPracticeAll;
 
-// 1. 測試普通股票帳戶 (StockAccount)
-Console.WriteLine("===== 1. 普通股票帳戶測試 =====");
-// 初始金額 10,000
-StockAccount userA = new StockAccount("Normal_User_01");
-userA.Deposit(10000); // 假設妳在類別裡有寫 Deposit，或直接在建構子給錢
+//// 1. 測試普通股票帳戶 (StockAccount)
+//Console.WriteLine("===== 1. 普通股票帳戶測試 =====");
+//// 初始金額 10,000
+//StockAccount userA = new StockAccount("Normal_User_01");
+//userA.Deposit(10000); // 假設妳在類別裡有寫 Deposit，或直接在建構子給錢
 
-// 買入：5 股 * 1000 元 = 5000 元
-bool resultA = userA.BuyStock(5, 1000);
+//// 買入：5 股 * 1000 元 = 5000 元
+//bool resultA = userA.BuyStock(5, 1000);
 
-if (resultA)
+//if (resultA)
+//{
+//    Console.WriteLine("User A 買入成功！");
+//}
+//userA.ShowPortfolio();
+//// 預期餘額：10000 - 5000 = 5000
+//Console.WriteLine();
+
+
+//// 2. 測試尊榮交易帳戶 (PremiumTradingAccount)
+//Console.WriteLine("===== 2. 尊榮交易帳戶測試 =====");
+//// 初始金額 10,000
+//PremiumTradingAccount userB = new PremiumTradingAccount("Premium_User_99");
+//userB.Deposit(10000);
+
+//// 買入：5 股 * 1000 元 = 5000 元
+//// 注意：這個方法內部會自動計算萬分之一的回饋金 (5000 * 0.001 = 5 元)
+//bool resultB = userB.BuyStock(5, 1000);
+
+//if (resultB)
+//{
+//    Console.WriteLine("User B 買入成功 (已自動計算回饋金)！");
+//}
+//userB.ShowPortfolio();
+//// 預期餘額：10000 - 5000 + 5 = 5005
+//Console.WriteLine();
+
+
+//// 3. 測試邊界邏輯：持股不足能否賣出？
+//Console.WriteLine("===== 3. 交易安全邏輯測試 =====");
+//Console.WriteLine("嘗試賣出 10 股 (目前僅持股 5 股)...");
+//bool sellResult = userB.SellStock(10, 1200);
+
+//if (!sellResult)
+//{
+//    Console.WriteLine("系統攔截成功：持股不足，變數未被修改。");
+//}
+//userB.ShowPortfolio(); // 確認持股數量依然是 5，餘額也沒變
+
+
+//choice ball color
+
+ColorScanner myScanner = new ColorScanner();
+
+Balls[] myBalls = new Balls[]
 {
-    Console.WriteLine("User A 買入成功！");
-}
-userA.ShowPortfolio();
-// 預期餘額：10000 - 5000 = 5000
-Console.WriteLine();
+            new YellowBall(),
+            new BlueBall()
+};
+
+Console.WriteLine("開始分辨球的顏色");
 
 
-// 2. 測試尊榮交易帳戶 (PremiumTradingAccount)
-Console.WriteLine("===== 2. 尊榮交易帳戶測試 =====");
-// 初始金額 10,000
-PremiumTradingAccount userB = new PremiumTradingAccount("Premium_User_99");
-userB.Deposit(10000);
-
-// 買入：5 股 * 1000 元 = 5000 元
-// 注意：這個方法內部會自動計算萬分之一的回饋金 (5000 * 0.001 = 5 元)
-bool resultB = userB.BuyStock(5, 1000);
-
-if (resultB)
+foreach (var ball in myBalls)
 {
-    Console.WriteLine("User B 買入成功 (已自動計算回饋金)！");
+   
+    myScanner.Scan(ball);
 }
-userB.ShowPortfolio();
-// 預期餘額：10000 - 5000 + 5 = 5005
-Console.WriteLine();
 
-
-// 3. 測試邊界邏輯：持股不足能否賣出？
-Console.WriteLine("===== 3. 交易安全邏輯測試 =====");
-Console.WriteLine("嘗試賣出 10 股 (目前僅持股 5 股)...");
-bool sellResult = userB.SellStock(10, 1200);
-
-if (!sellResult)
-{
-    Console.WriteLine("系統攔截成功：持股不足，變數未被修改。");
-}
-userB.ShowPortfolio(); // 確認持股數量依然是 5，餘額也沒變
